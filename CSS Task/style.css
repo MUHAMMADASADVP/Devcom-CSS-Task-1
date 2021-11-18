@@ -90,15 +90,19 @@
   color: #ffffff;
 }
 
-.firstsection{
+.firstsection  {
   height: 400px;
   background-color:#f0d9ff ;
 }
-.secondsection{
+
+.secondsection  {
   height: 400px;
   background-color:#c68b59 ;
-}.thirdsection{
+}
+
+.thirdsection  {
   height: 400px;
   background-color:#d5eebb ;
 }
+
 /* Enter your CSS here :) */
