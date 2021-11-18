@@ -2,7 +2,14 @@
   margin: 0;
   padding: 0;
 }
-
+.btn-sm{
+  padding: 6px 10px;
+  vertical-align: middle;
+  background-color:#00000000;
+  color: #ffffff;
+  border:2px  solid #ffffff;
+  border-radius:8px ;
+}
 .navbar {
   display: flex;
   align-items: center;
@@ -60,9 +67,10 @@
   font-size: 18px;
 }
 
-.btn-sm {
-  padding: 6px 10px;
-  vertical-align: middle;
+.srch {
+  font-size: 17px;
+  border: 2px solid #a0a0a0;
+  border-radius: 9px;
 }
 
 .section {
@@ -82,5 +90,15 @@
   color: #ffffff;
 }
 
-
+.firstsection{
+  height: 400px;
+  background-color:#f0d9ff ;
+}
+.secondsection{
+  height: 400px;
+  background-color:#c68b59 ;
+}.thirdsection{
+  height: 400px;
+  background-color:#d5eebb ;
+}
 /* Enter your CSS here :) */
