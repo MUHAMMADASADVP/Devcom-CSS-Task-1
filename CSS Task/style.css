@@ -67,7 +67,7 @@
   font-size: 18px;
 }
 
-.srch {
+#search {
   font-size: 17px;
   border: 2px solid #a0a0a0;
   border-radius: 9px;
@@ -90,19 +90,15 @@
   color: #ffffff;
 }
 
-.firstsection  {
+.firstsection{
   height: 400px;
   background-color:#f0d9ff ;
 }
-
-.secondsection  {
+.secondsection{
   height: 400px;
   background-color:#c68b59 ;
-}
-
-.thirdsection  {
+}.thirdsection{
   height: 400px;
   background-color:#d5eebb ;
 }
-
 /* Enter your CSS here :) */
